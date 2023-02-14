@@ -1,0 +1,21 @@
+body {
+    background-image: linear-gradient(to top, #004b7f, #38689e, #5c86bd, #80a6de, #a3c7ff);    height: 100vh;
+    width: 100%
+  }
+
+  div.form
+{
+    display: block;
+    text-align: center;
+}
+form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.card-deck {
+    padding: 15px;
+}
